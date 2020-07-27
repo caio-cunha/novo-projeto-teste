@@ -1,6 +1,7 @@
 import sys  
 import clr
 import pandas as pd  
+import color
 
 sys.path.append(r'C:\Program Files (x86)\PIPC\AF\PublicAssemblies\4.0')    
 clr.AddReference('OSIsoft.AFSDK')   
